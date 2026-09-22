@@ -1,0 +1,15 @@
+C:\Programas UNAH\2026-3\Programacion Estructurada\02_Introduccion\02_Introduccion\bin\Debug\net9.0\02_Introduccion.exe
+C:\Programas UNAH\2026-3\Programacion Estructurada\02_Introduccion\02_Introduccion\bin\Debug\net9.0\02_Introduccion.deps.json
+C:\Programas UNAH\2026-3\Programacion Estructurada\02_Introduccion\02_Introduccion\bin\Debug\net9.0\02_Introduccion.runtimeconfig.json
+C:\Programas UNAH\2026-3\Programacion Estructurada\02_Introduccion\02_Introduccion\bin\Debug\net9.0\02_Introduccion.dll
+C:\Programas UNAH\2026-3\Programacion Estructurada\02_Introduccion\02_Introduccion\bin\Debug\net9.0\02_Introduccion.pdb
+C:\Programas UNAH\2026-3\Programacion Estructurada\02_Introduccion\02_Introduccion\obj\Debug\net9.0\02_Introduccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-3\Programacion Estructurada\02_Introduccion\02_Introduccion\obj\Debug\net9.0\02_Introduccion.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-3\Programacion Estructurada\02_Introduccion\02_Introduccion\obj\Debug\net9.0\02_Introduccion.AssemblyInfo.cs
+C:\Programas UNAH\2026-3\Programacion Estructurada\02_Introduccion\02_Introduccion\obj\Debug\net9.0\02_Introduccion.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-3\Programacion Estructurada\02_Introduccion\02_Introduccion\obj\Debug\net9.0\02_Introduccion.sourcelink.json
+C:\Programas UNAH\2026-3\Programacion Estructurada\02_Introduccion\02_Introduccion\obj\Debug\net9.0\02_Introduccion.dll
+C:\Programas UNAH\2026-3\Programacion Estructurada\02_Introduccion\02_Introduccion\obj\Debug\net9.0\refint\02_Introduccion.dll
+C:\Programas UNAH\2026-3\Programacion Estructurada\02_Introduccion\02_Introduccion\obj\Debug\net9.0\02_Introduccion.pdb
+C:\Programas UNAH\2026-3\Programacion Estructurada\02_Introduccion\02_Introduccion\obj\Debug\net9.0\02_Introduccion.genruntimeconfig.cache
+C:\Programas UNAH\2026-3\Programacion Estructurada\02_Introduccion\02_Introduccion\obj\Debug\net9.0\ref\02_Introduccion.dll
