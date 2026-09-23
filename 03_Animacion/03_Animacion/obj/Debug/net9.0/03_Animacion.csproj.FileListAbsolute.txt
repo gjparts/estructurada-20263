@@ -1,0 +1,15 @@
+C:\Programas UNAH\2026-3\Programacion Estructurada\03_Animacion\03_Animacion\bin\Debug\net9.0\03_Animacion.exe
+C:\Programas UNAH\2026-3\Programacion Estructurada\03_Animacion\03_Animacion\bin\Debug\net9.0\03_Animacion.deps.json
+C:\Programas UNAH\2026-3\Programacion Estructurada\03_Animacion\03_Animacion\bin\Debug\net9.0\03_Animacion.runtimeconfig.json
+C:\Programas UNAH\2026-3\Programacion Estructurada\03_Animacion\03_Animacion\bin\Debug\net9.0\03_Animacion.dll
+C:\Programas UNAH\2026-3\Programacion Estructurada\03_Animacion\03_Animacion\bin\Debug\net9.0\03_Animacion.pdb
+C:\Programas UNAH\2026-3\Programacion Estructurada\03_Animacion\03_Animacion\obj\Debug\net9.0\03_Animacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-3\Programacion Estructurada\03_Animacion\03_Animacion\obj\Debug\net9.0\03_Animacion.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-3\Programacion Estructurada\03_Animacion\03_Animacion\obj\Debug\net9.0\03_Animacion.AssemblyInfo.cs
+C:\Programas UNAH\2026-3\Programacion Estructurada\03_Animacion\03_Animacion\obj\Debug\net9.0\03_Animacion.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-3\Programacion Estructurada\03_Animacion\03_Animacion\obj\Debug\net9.0\03_Animacion.sourcelink.json
+C:\Programas UNAH\2026-3\Programacion Estructurada\03_Animacion\03_Animacion\obj\Debug\net9.0\03_Animacion.dll
+C:\Programas UNAH\2026-3\Programacion Estructurada\03_Animacion\03_Animacion\obj\Debug\net9.0\refint\03_Animacion.dll
+C:\Programas UNAH\2026-3\Programacion Estructurada\03_Animacion\03_Animacion\obj\Debug\net9.0\03_Animacion.pdb
+C:\Programas UNAH\2026-3\Programacion Estructurada\03_Animacion\03_Animacion\obj\Debug\net9.0\03_Animacion.genruntimeconfig.cache
+C:\Programas UNAH\2026-3\Programacion Estructurada\03_Animacion\03_Animacion\obj\Debug\net9.0\ref\03_Animacion.dll
