@@ -78,6 +78,95 @@
                cuenta_ahorro
                carrera_del_estudiante
              */
+            //ejemplos practicos:
+            //Recueden que C# y C++ son muy similares
+            //declarar una variable sin valor de inicio (sin inicializar)
+            int cantidad;
+            //la variable cantidad es de tipo int
+
+            //si Usted no asigna un valor a una variable no es posible leerla
+            //Console.WriteLine(cantidad);
+
+            //para poder leer una variable hay que asignarle un valor:
+            cantidad = 23;
+            Console.WriteLine(cantidad);
+
+            //declarar multiples variables del mismo tipo en una sola instruccion:
+            //sin inicializar:
+            int n1, n2, n3;
+            //con valor de inicio:
+            int c1 = 5, c2 = 777, c3 = 90;
+
+            //n1, n2 y n3 no puede imprimirse porque no tienen valor asignado
+            //en cambio c1, c2 y c3 si pueden imprimirse.
+            Console.WriteLine(c1);
+            Console.WriteLine(c2);
+            Console.WriteLine(c3);
+
+            //el tipo de dato int
+            //este tipo de dato permite almacenar un numero entero de 4 bytes (32 bit)
+            //con signo. O sea que soporta positivos y negativos hasta 2 elevado a la
+            //31 potencia: 2,147,483,648
+
+            /*Tipos de dato para almacenar decimales
+            los mas populares son:
+            1) float: guarda numeros con decimales de 4 bytes (32 bit) (baja precision)
+            2) double: guarda numeros con decimales de 8 bytes (64 bit)(alta precisision)
+            */
+            float salario = 15235.26f;
+            double peso = 192.5;
+            //observe que al final salario va una letra f, este se usa
+            //para indicar a C# que se le ha asignado un numero float a la variable.
+            //la f tambien puede ser mayuscula: F
+
+            double distancia = 401212321231213221.34423454456;
+            //double llega a soportar numeros con signo y decimales hasta 2 elevado
+            //a la 63 potencia: 9,223,372,036,854,775,808
+
+            //Tipo de dato Long (entero largo o int64)
+            //se utiliza para almacenar numeros enteros de alta precision, 8bytes (64bit)
+            //sea positivo o negativo
+            long n = 1401198201055L;
+            //se recomienda colocarle una L mayuscula al final a los numeros Long
+
+            //Tipo de dato char: almacena un caracter, mide 1 byte (8 bit)
+            char cr1 = 'z';
+            //se utiliza comilla simple. ALT+39
+
+            //una variable char solo puede guardar un caracter
+            char cr2 = 'q';
+            char cr3 = ' '; //espacio en blanco
+            char cr4 = '\\'; //slash inverso (aqui si se coloca dos caracteres)
+            char cr5 = '"'; //comilla doble
+            char cr6 = '\''; //comilla simple necesita slash
+            Console.WriteLine(cr4);
+            Console.WriteLine(cr5);
+            Console.WriteLine(cr6);
+
+            //no se permite char con caracter vacio (nulo)
+            //char cr7 = '';
+
+            //Tipo de dato Boolean (Booleano)
+            //Almacenar un valor de 1 o 0, su tamaño es 1 bit
+            //Sus equivalentes en logica booleana son 1 para True, 0 para False
+            //Se llama asi en honor a George Boole
+            bool respuesta = true;
+            bool salir = false;
+
+            //Impresion de variables y mensajes en C#
+            //Forma 1: concatenar variables
+            Console.WriteLine("El valor de salario es "+salario);
+            Console.WriteLine("El valor de cr1 es "+cr1);
+            Console.WriteLine("El valor de peso es "+peso);
+            Console.WriteLine("El valor de respuesta es "+respuesta);
+            Console.WriteLine("c1 vale "+c1+", c2 vale "+c2+", c3 vale "+c3);
+
+            //Forma 2: usando Interpolacion de variables
+            Console.WriteLine($"El valor de salario es {salario}");
+            Console.WriteLine($"El valor de cr1 es {cr1}");
+            Console.WriteLine($"El valor de peso es {peso}");
+            Console.WriteLine($"El valor de respuesta es {respuesta}");
+            Console.WriteLine($"c1 vale {c1}, c2 vale {c2}, c3 vale {c3}");
         }
     }
 }

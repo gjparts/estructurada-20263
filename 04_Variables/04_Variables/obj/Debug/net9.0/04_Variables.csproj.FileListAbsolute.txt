@@ -1,0 +1,15 @@
+C:\Programas UNAH\2026-3\Programacion Estructurada\04_Variables\04_Variables\bin\Debug\net9.0\04_Variables.exe
+C:\Programas UNAH\2026-3\Programacion Estructurada\04_Variables\04_Variables\bin\Debug\net9.0\04_Variables.deps.json
+C:\Programas UNAH\2026-3\Programacion Estructurada\04_Variables\04_Variables\bin\Debug\net9.0\04_Variables.runtimeconfig.json
+C:\Programas UNAH\2026-3\Programacion Estructurada\04_Variables\04_Variables\bin\Debug\net9.0\04_Variables.dll
+C:\Programas UNAH\2026-3\Programacion Estructurada\04_Variables\04_Variables\bin\Debug\net9.0\04_Variables.pdb
+C:\Programas UNAH\2026-3\Programacion Estructurada\04_Variables\04_Variables\obj\Debug\net9.0\04_Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-3\Programacion Estructurada\04_Variables\04_Variables\obj\Debug\net9.0\04_Variables.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-3\Programacion Estructurada\04_Variables\04_Variables\obj\Debug\net9.0\04_Variables.AssemblyInfo.cs
+C:\Programas UNAH\2026-3\Programacion Estructurada\04_Variables\04_Variables\obj\Debug\net9.0\04_Variables.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-3\Programacion Estructurada\04_Variables\04_Variables\obj\Debug\net9.0\04_Variables.sourcelink.json
+C:\Programas UNAH\2026-3\Programacion Estructurada\04_Variables\04_Variables\obj\Debug\net9.0\04_Variables.dll
+C:\Programas UNAH\2026-3\Programacion Estructurada\04_Variables\04_Variables\obj\Debug\net9.0\refint\04_Variables.dll
+C:\Programas UNAH\2026-3\Programacion Estructurada\04_Variables\04_Variables\obj\Debug\net9.0\04_Variables.pdb
+C:\Programas UNAH\2026-3\Programacion Estructurada\04_Variables\04_Variables\obj\Debug\net9.0\04_Variables.genruntimeconfig.cache
+C:\Programas UNAH\2026-3\Programacion Estructurada\04_Variables\04_Variables\obj\Debug\net9.0\ref\04_Variables.dll
