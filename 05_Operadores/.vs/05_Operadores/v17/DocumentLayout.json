@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programas UNAH\\2026-3\\Programacion Estructurada\\05_Operadores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D64774-15E8-41B4-AE77-6192DD09E90D}|05_Operadores\\05_Operadores.csproj|c:\\programas unah\\2026-3\\programacion estructurada\\05_operadores\\05_operadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D64774-15E8-41B4-AE77-6192DD09E90D}|05_Operadores\\05_Operadores.csproj|solutionrelative:05_operadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2026-3\\Programacion Estructurada\\05_Operadores\\05_Operadores\\Program.cs",
+              "RelativeDocumentMoniker": "05_Operadores\\Program.cs",
+              "ToolTip": "C:\\Programas UNAH\\2026-3\\Programacion Estructurada\\05_Operadores\\05_Operadores\\Program.cs",
+              "RelativeToolTip": "05_Operadores\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T16:06:43.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

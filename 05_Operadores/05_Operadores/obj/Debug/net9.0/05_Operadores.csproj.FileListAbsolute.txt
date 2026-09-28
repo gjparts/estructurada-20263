@@ -1,0 +1,15 @@
+C:\Programas UNAH\2026-3\Programacion Estructurada\05_Operadores\05_Operadores\bin\Debug\net9.0\05_Operadores.exe
+C:\Programas UNAH\2026-3\Programacion Estructurada\05_Operadores\05_Operadores\bin\Debug\net9.0\05_Operadores.deps.json
+C:\Programas UNAH\2026-3\Programacion Estructurada\05_Operadores\05_Operadores\bin\Debug\net9.0\05_Operadores.runtimeconfig.json
+C:\Programas UNAH\2026-3\Programacion Estructurada\05_Operadores\05_Operadores\bin\Debug\net9.0\05_Operadores.dll
+C:\Programas UNAH\2026-3\Programacion Estructurada\05_Operadores\05_Operadores\bin\Debug\net9.0\05_Operadores.pdb
+C:\Programas UNAH\2026-3\Programacion Estructurada\05_Operadores\05_Operadores\obj\Debug\net9.0\05_Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-3\Programacion Estructurada\05_Operadores\05_Operadores\obj\Debug\net9.0\05_Operadores.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-3\Programacion Estructurada\05_Operadores\05_Operadores\obj\Debug\net9.0\05_Operadores.AssemblyInfo.cs
+C:\Programas UNAH\2026-3\Programacion Estructurada\05_Operadores\05_Operadores\obj\Debug\net9.0\05_Operadores.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-3\Programacion Estructurada\05_Operadores\05_Operadores\obj\Debug\net9.0\05_Operadores.sourcelink.json
+C:\Programas UNAH\2026-3\Programacion Estructurada\05_Operadores\05_Operadores\obj\Debug\net9.0\05_Operadores.dll
+C:\Programas UNAH\2026-3\Programacion Estructurada\05_Operadores\05_Operadores\obj\Debug\net9.0\refint\05_Operadores.dll
+C:\Programas UNAH\2026-3\Programacion Estructurada\05_Operadores\05_Operadores\obj\Debug\net9.0\05_Operadores.pdb
+C:\Programas UNAH\2026-3\Programacion Estructurada\05_Operadores\05_Operadores\obj\Debug\net9.0\05_Operadores.genruntimeconfig.cache
+C:\Programas UNAH\2026-3\Programacion Estructurada\05_Operadores\05_Operadores\obj\Debug\net9.0\ref\05_Operadores.dll
