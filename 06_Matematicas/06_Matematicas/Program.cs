@@ -93,7 +93,43 @@
             //aprovechar el uso de Floor:
             Console.WriteLine($"Parte decimal de {e} es {e-Math.Floor(e)}");
 
+            //ejercicios planteados en la pizarra
+            double x = 5, y = 4, z = 1;
+            //el programa se puede resolver de varias formas
+            //por ejemplo, resolverlo al momento de imprimir:
+            Console.WriteLine($"Resultado: {Math.Sqrt(Math.Pow(x,3)/(y-z))}");
+            //otro ejemplo, almacenar el resultado en una variable:
+            double resultado = Math.Sqrt(Math.Pow(x, 3) / (y - z));
+            Console.WriteLine($"Resultado {resultado}");
+            //un ejemplo mas, hacerlo por partes
+            double fraccion = Math.Pow(x, 3) / (y - z);
+            double r = Math.Sqrt(fraccion);
+            Console.WriteLine($"Resultado {r}");
 
+            //que pasaria si dentro de la raiz cuadrada queda un
+            //numero negativo
+            x = 5;
+            y = 3;
+            z = 9;
+            Console.WriteLine($"Resultado: {Math.Sqrt(Math.Pow(x,3)/(y-z))}");
+            //lo anterior producira una raiz cuadrada para un valor
+            //negativo mostrando el resultado NaN lo que significa:
+            //Not a Numbrer (no es un numero)
+            //indicando que el valor no esta dentro de los numeros reales
+            //sino dentro de los imaginarios o complejos.
+
+            //que pasaria si el denominador de la division es CERO?
+            x = 5;
+            y = 3;
+            z = 3;
+            Console.WriteLine($"Resultado: {Math.Sqrt(Math.Pow(x,3)/(y-z))}");
+            //lo anterior da como resultado Infinito, todo numero
+            //dividido entre cero tiende al infinito.
+            //En algunas computadoras sale el simbolo infinito como
+            //un numero OCHO 8
+            //en otras computadoras sale el numero 8 pero recostado
+            //hay casos donde sale la palabra Inf o Infinite.
+            
         }
     }
 }
