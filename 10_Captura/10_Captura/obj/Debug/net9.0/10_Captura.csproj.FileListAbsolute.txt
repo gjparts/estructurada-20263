@@ -1,0 +1,15 @@
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\10_Captura\10_Captura\bin\Debug\net9.0\10_Captura.exe
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\10_Captura\10_Captura\bin\Debug\net9.0\10_Captura.deps.json
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\10_Captura\10_Captura\bin\Debug\net9.0\10_Captura.runtimeconfig.json
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\10_Captura\10_Captura\bin\Debug\net9.0\10_Captura.dll
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\10_Captura\10_Captura\bin\Debug\net9.0\10_Captura.pdb
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\10_Captura\10_Captura\obj\Debug\net9.0\10_Captura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\10_Captura\10_Captura\obj\Debug\net9.0\10_Captura.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\10_Captura\10_Captura\obj\Debug\net9.0\10_Captura.AssemblyInfo.cs
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\10_Captura\10_Captura\obj\Debug\net9.0\10_Captura.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\10_Captura\10_Captura\obj\Debug\net9.0\10_Captura.sourcelink.json
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\10_Captura\10_Captura\obj\Debug\net9.0\10_Captura.dll
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\10_Captura\10_Captura\obj\Debug\net9.0\refint\10_Captura.dll
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\10_Captura\10_Captura\obj\Debug\net9.0\10_Captura.pdb
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\10_Captura\10_Captura\obj\Debug\net9.0\10_Captura.genruntimeconfig.cache
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\10_Captura\10_Captura\obj\Debug\net9.0\ref\10_Captura.dll

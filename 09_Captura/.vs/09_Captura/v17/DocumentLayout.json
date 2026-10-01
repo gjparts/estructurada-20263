@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\09_Captura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C917F8CA-555C-43A9-AE96-1B7C98EE9756}|09_Captura\\09_Captura.csproj|c:\\programas unah\\2026-3\\programacion orientada a objetos\\09_captura\\09_captura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C917F8CA-555C-43A9-AE96-1B7C98EE9756}|09_Captura\\09_Captura.csproj|solutionrelative:09_captura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\09_Captura\\09_Captura\\Program.cs",
+              "RelativeDocumentMoniker": "09_Captura\\Program.cs",
+              "ToolTip": "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\09_Captura\\09_Captura\\Program.cs",
+              "RelativeToolTip": "09_Captura\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T16:32:36.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
