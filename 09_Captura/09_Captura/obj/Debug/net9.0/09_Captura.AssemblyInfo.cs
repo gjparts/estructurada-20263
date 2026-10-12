@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("09_Captura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6529daf1ebfc4222346e9fcec12fae392b324a3a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6645b539e7f9557a2de34639b9948b2345199f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("09_Captura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("09_Captura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

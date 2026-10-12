@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\09_Captura\\09_Captura\\09_Captura.csproj",
+      "projectUniqueName": "C:\\Programas UNAH\\2026-3\\Programacion Estructurada\\09_Captura\\09_Captura\\09_Captura.csproj",
       "projectName": "09_Captura",
-      "projectPath": "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\09_Captura\\09_Captura\\09_Captura.csproj",
+      "projectPath": "C:\\Programas UNAH\\2026-3\\Programacion Estructurada\\09_Captura\\09_Captura\\09_Captura.csproj",
       "packagesPath": "C:\\Users\\Gerardo\\.nuget\\packages\\",
-      "outputPath": "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\09_Captura\\09_Captura\\obj\\",
+      "outputPath": "C:\\Programas UNAH\\2026-3\\Programacion Estructurada\\09_Captura\\09_Captura\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gerardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
