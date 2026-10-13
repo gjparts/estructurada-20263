@@ -1,0 +1,15 @@
+C:\Programas UNAH\2026-3\Programacion Estructurada\15_if\15_if\bin\Debug\net9.0\15_if.exe
+C:\Programas UNAH\2026-3\Programacion Estructurada\15_if\15_if\bin\Debug\net9.0\15_if.deps.json
+C:\Programas UNAH\2026-3\Programacion Estructurada\15_if\15_if\bin\Debug\net9.0\15_if.runtimeconfig.json
+C:\Programas UNAH\2026-3\Programacion Estructurada\15_if\15_if\bin\Debug\net9.0\15_if.dll
+C:\Programas UNAH\2026-3\Programacion Estructurada\15_if\15_if\bin\Debug\net9.0\15_if.pdb
+C:\Programas UNAH\2026-3\Programacion Estructurada\15_if\15_if\obj\Debug\net9.0\15_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-3\Programacion Estructurada\15_if\15_if\obj\Debug\net9.0\15_if.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-3\Programacion Estructurada\15_if\15_if\obj\Debug\net9.0\15_if.AssemblyInfo.cs
+C:\Programas UNAH\2026-3\Programacion Estructurada\15_if\15_if\obj\Debug\net9.0\15_if.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-3\Programacion Estructurada\15_if\15_if\obj\Debug\net9.0\15_if.sourcelink.json
+C:\Programas UNAH\2026-3\Programacion Estructurada\15_if\15_if\obj\Debug\net9.0\15_if.dll
+C:\Programas UNAH\2026-3\Programacion Estructurada\15_if\15_if\obj\Debug\net9.0\refint\15_if.dll
+C:\Programas UNAH\2026-3\Programacion Estructurada\15_if\15_if\obj\Debug\net9.0\15_if.pdb
+C:\Programas UNAH\2026-3\Programacion Estructurada\15_if\15_if\obj\Debug\net9.0\15_if.genruntimeconfig.cache
+C:\Programas UNAH\2026-3\Programacion Estructurada\15_if\15_if\obj\Debug\net9.0\ref\15_if.dll
