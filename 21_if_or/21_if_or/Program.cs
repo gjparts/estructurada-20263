@@ -24,8 +24,8 @@
                     if(m == 4 || m == 6 || m == 9 || m == 11) Console.WriteLine("30 dias");
                     if(m == 2)
                     {
-                        //febrero ya es un caso singular
-                        if(a%4 == 0)
+                        //febrero ya es un caso singular: si el año es Divisible entre 4 entonces es Bisiesto
+                        if(a%4 == 0) //Operador Modulo devuelve el residuo de la division
                             Console.WriteLine("29 dias");
                         else
                             Console.WriteLine("28 dias");

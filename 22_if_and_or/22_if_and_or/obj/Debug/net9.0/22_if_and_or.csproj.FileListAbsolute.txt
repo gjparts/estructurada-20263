@@ -1,0 +1,15 @@
+C:\Programas UNAH\2026-3\Programacion Estructurada\22_if_and_or\22_if_and_or\bin\Debug\net9.0\22_if_and_or.exe
+C:\Programas UNAH\2026-3\Programacion Estructurada\22_if_and_or\22_if_and_or\bin\Debug\net9.0\22_if_and_or.deps.json
+C:\Programas UNAH\2026-3\Programacion Estructurada\22_if_and_or\22_if_and_or\bin\Debug\net9.0\22_if_and_or.runtimeconfig.json
+C:\Programas UNAH\2026-3\Programacion Estructurada\22_if_and_or\22_if_and_or\bin\Debug\net9.0\22_if_and_or.dll
+C:\Programas UNAH\2026-3\Programacion Estructurada\22_if_and_or\22_if_and_or\bin\Debug\net9.0\22_if_and_or.pdb
+C:\Programas UNAH\2026-3\Programacion Estructurada\22_if_and_or\22_if_and_or\obj\Debug\net9.0\22_if_and_or.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-3\Programacion Estructurada\22_if_and_or\22_if_and_or\obj\Debug\net9.0\22_if_and_or.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-3\Programacion Estructurada\22_if_and_or\22_if_and_or\obj\Debug\net9.0\22_if_and_or.AssemblyInfo.cs
+C:\Programas UNAH\2026-3\Programacion Estructurada\22_if_and_or\22_if_and_or\obj\Debug\net9.0\22_if_and_or.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-3\Programacion Estructurada\22_if_and_or\22_if_and_or\obj\Debug\net9.0\22_if_and_or.sourcelink.json
+C:\Programas UNAH\2026-3\Programacion Estructurada\22_if_and_or\22_if_and_or\obj\Debug\net9.0\22_if_and_or.dll
+C:\Programas UNAH\2026-3\Programacion Estructurada\22_if_and_or\22_if_and_or\obj\Debug\net9.0\refint\22_if_and_or.dll
+C:\Programas UNAH\2026-3\Programacion Estructurada\22_if_and_or\22_if_and_or\obj\Debug\net9.0\22_if_and_or.pdb
+C:\Programas UNAH\2026-3\Programacion Estructurada\22_if_and_or\22_if_and_or\obj\Debug\net9.0\22_if_and_or.genruntimeconfig.cache
+C:\Programas UNAH\2026-3\Programacion Estructurada\22_if_and_or\22_if_and_or\obj\Debug\net9.0\ref\22_if_and_or.dll

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programas UNAH\\2026-3\\Programacion Estructurada\\23_if_not\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB628A3-D9C3-4F85-9FA8-8069B70423DB}|23_if_not\\23_if_not.csproj|c:\\programas unah\\2026-3\\programacion estructurada\\23_if_not\\23_if_not\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB628A3-D9C3-4F85-9FA8-8069B70423DB}|23_if_not\\23_if_not.csproj|solutionrelative:23_if_not\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2026-3\\Programacion Estructurada\\23_if_not\\23_if_not\\Program.cs",
+              "RelativeDocumentMoniker": "23_if_not\\Program.cs",
+              "ToolTip": "C:\\Programas UNAH\\2026-3\\Programacion Estructurada\\23_if_not\\23_if_not\\Program.cs",
+              "RelativeToolTip": "23_if_not\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:33:58.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

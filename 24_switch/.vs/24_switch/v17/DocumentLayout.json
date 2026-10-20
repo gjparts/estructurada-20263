@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programas UNAH\\2026-3\\Programacion Estructurada\\24_switch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E25E98-97CB-48E0-A40E-8F60CC0705DE}|24_switch\\24_switch.csproj|c:\\programas unah\\2026-3\\programacion estructurada\\24_switch\\24_switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E25E98-97CB-48E0-A40E-8F60CC0705DE}|24_switch\\24_switch.csproj|solutionrelative:24_switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2026-3\\Programacion Estructurada\\24_switch\\24_switch\\Program.cs",
+              "RelativeDocumentMoniker": "24_switch\\Program.cs",
+              "ToolTip": "C:\\Programas UNAH\\2026-3\\Programacion Estructurada\\24_switch\\24_switch\\Program.cs",
+              "RelativeToolTip": "24_switch\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:45:56.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
