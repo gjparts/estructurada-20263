@@ -1,0 +1,15 @@
+C:\Programas UNAH\2026-3\Programacion Estructurada\24_switch\24_switch\bin\Debug\net9.0\24_switch.exe
+C:\Programas UNAH\2026-3\Programacion Estructurada\24_switch\24_switch\bin\Debug\net9.0\24_switch.deps.json
+C:\Programas UNAH\2026-3\Programacion Estructurada\24_switch\24_switch\bin\Debug\net9.0\24_switch.runtimeconfig.json
+C:\Programas UNAH\2026-3\Programacion Estructurada\24_switch\24_switch\bin\Debug\net9.0\24_switch.dll
+C:\Programas UNAH\2026-3\Programacion Estructurada\24_switch\24_switch\bin\Debug\net9.0\24_switch.pdb
+C:\Programas UNAH\2026-3\Programacion Estructurada\24_switch\24_switch\obj\Debug\net9.0\24_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-3\Programacion Estructurada\24_switch\24_switch\obj\Debug\net9.0\24_switch.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-3\Programacion Estructurada\24_switch\24_switch\obj\Debug\net9.0\24_switch.AssemblyInfo.cs
+C:\Programas UNAH\2026-3\Programacion Estructurada\24_switch\24_switch\obj\Debug\net9.0\24_switch.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-3\Programacion Estructurada\24_switch\24_switch\obj\Debug\net9.0\24_switch.sourcelink.json
+C:\Programas UNAH\2026-3\Programacion Estructurada\24_switch\24_switch\obj\Debug\net9.0\24_switch.dll
+C:\Programas UNAH\2026-3\Programacion Estructurada\24_switch\24_switch\obj\Debug\net9.0\refint\24_switch.dll
+C:\Programas UNAH\2026-3\Programacion Estructurada\24_switch\24_switch\obj\Debug\net9.0\24_switch.pdb
+C:\Programas UNAH\2026-3\Programacion Estructurada\24_switch\24_switch\obj\Debug\net9.0\24_switch.genruntimeconfig.cache
+C:\Programas UNAH\2026-3\Programacion Estructurada\24_switch\24_switch\obj\Debug\net9.0\ref\24_switch.dll
