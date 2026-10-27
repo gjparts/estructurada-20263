@@ -1,0 +1,15 @@
+C:\Programas UNAH\2026-3\Programacion Estructurada\26_azar\26_azar\bin\Debug\net9.0\26_azar.exe
+C:\Programas UNAH\2026-3\Programacion Estructurada\26_azar\26_azar\bin\Debug\net9.0\26_azar.deps.json
+C:\Programas UNAH\2026-3\Programacion Estructurada\26_azar\26_azar\bin\Debug\net9.0\26_azar.runtimeconfig.json
+C:\Programas UNAH\2026-3\Programacion Estructurada\26_azar\26_azar\bin\Debug\net9.0\26_azar.dll
+C:\Programas UNAH\2026-3\Programacion Estructurada\26_azar\26_azar\bin\Debug\net9.0\26_azar.pdb
+C:\Programas UNAH\2026-3\Programacion Estructurada\26_azar\26_azar\obj\Debug\net9.0\26_azar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-3\Programacion Estructurada\26_azar\26_azar\obj\Debug\net9.0\26_azar.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-3\Programacion Estructurada\26_azar\26_azar\obj\Debug\net9.0\26_azar.AssemblyInfo.cs
+C:\Programas UNAH\2026-3\Programacion Estructurada\26_azar\26_azar\obj\Debug\net9.0\26_azar.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-3\Programacion Estructurada\26_azar\26_azar\obj\Debug\net9.0\26_azar.sourcelink.json
+C:\Programas UNAH\2026-3\Programacion Estructurada\26_azar\26_azar\obj\Debug\net9.0\26_azar.dll
+C:\Programas UNAH\2026-3\Programacion Estructurada\26_azar\26_azar\obj\Debug\net9.0\refint\26_azar.dll
+C:\Programas UNAH\2026-3\Programacion Estructurada\26_azar\26_azar\obj\Debug\net9.0\26_azar.pdb
+C:\Programas UNAH\2026-3\Programacion Estructurada\26_azar\26_azar\obj\Debug\net9.0\26_azar.genruntimeconfig.cache
+C:\Programas UNAH\2026-3\Programacion Estructurada\26_azar\26_azar\obj\Debug\net9.0\ref\26_azar.dll
