@@ -96,6 +96,32 @@
                 else
                     Console.WriteLine(i);
             }
+
+            //forma 2: usando el OPERADOR TERNARIO
+            Console.WriteLine("--------------------------------------");
+            for (int i = 1; i <= 100; i++)
+            {
+                Console.WriteLine($"{i}{ ( i%10 == 0 ? "!" : "" ) }");
+            }
+
+            //OTRO EJEMPLO DE USO DEL OPERADOR TERNARIO:
+            bool pagaImpuesto = true; //cambiar de true a false para ver como cambia el resultado
+            double venta = 100;
+
+            //Si pagaImpuesto es true, le sumamos un 15% a la venta, sino pues no le sumamos nada
+            Console.WriteLine($"El total a pagar es: {venta+(pagaImpuesto == true ? venta*0.15 : 0.00 )}");
+
+            //OTRO EJEMPLO DE USO DEL OPERADOR TERNARIO:
+            float factura = 15000;
+            //si lo facturado es mayor o igual a 10000 se da un 10% de descuento
+            Console.WriteLine($"El total a pagar es: {factura - (factura >= 10000 ? factura * 0.10 : 0.00)}");
+
+            //OTRO EJEMPLO DE USO DEL OPERADOR TERNARIO:
+            float monto = 7000;
+            //si el monto es desde 0 hasta menos de 10000 se da un 5% de descuento
+            //si el monto es desde 10000 hasta menos de 20000 se da un 10% de descuento
+            //si el monto es desde 20000 se da un 50% de descuento
+            Console.WriteLine($"El total a pagar es: {monto - monto*(monto >= 0 && monto < 10000 ? 0.05 : (monto >= 10000 && monto < 20000 ? 0.10 : 0.50 ))}");
         }
     }
 }
