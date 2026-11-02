@@ -122,6 +122,35 @@
             //si el monto es desde 10000 hasta menos de 20000 se da un 10% de descuento
             //si el monto es desde 20000 se da un 50% de descuento
             Console.WriteLine($"El total a pagar es: {monto - monto*(monto >= 0 && monto < 10000 ? 0.05 : (monto >= 10000 && monto < 20000 ? 0.10 : 0.50 ))}");
+
+            //Imprima los numeros del 0 al 30 de 3 en 3 de la forma mas eficiente
+            for(int i = 0; i <= 30; i += 3)
+                Console.WriteLine(i);
+
+            //Imprima los numeros del 10 al 0 de 1 en 1 de forma descendente
+            Console.WriteLine("------------------------------");
+            for(int i = 10; i >= 0; i--)
+                Console.WriteLine(i);
+
+            //Imprima los numeros del 100 al 0, de 10 en 10 de forma descendente
+            Console.WriteLine("------------------------------");
+            for(int i = 100; i >= 0; i-=10)
+                Console.WriteLine(i);
+
+            /*operadores de Incremento:
+             i++    suma 1 a i
+             i+=5   suma 5 a i
+             
+             operadores de Decremento
+             i--    resta 1 a i
+             i-=10  resta 10 a i
+             */
+
+            //La estructura de repeticion for tambien funciona con numeros decimales
+            //por ejemplo: Imprima los numeros del 0 al 5 de 0.25 en 0.25 ascendente
+            Console.WriteLine("------------------------------");
+            for(double i = 0; i <= 5; i+=0.25)
+                Console.WriteLine(i);
         }
     }
 }

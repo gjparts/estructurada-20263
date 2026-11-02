@@ -8,19 +8,24 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Gerardo\\.nuget\\packages\\": {}
+    "C:\\Users\\Gerardo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programas UNAH\\2026-3\\Programacion Estructurada\\27_for\\27_for\\27_for.csproj",
+      "projectUniqueName": "P:\\Programas UNAH\\2026-3\\Programacion Estructurada\\27_for\\27_for\\27_for.csproj",
       "projectName": "27_for",
-      "projectPath": "C:\\Programas UNAH\\2026-3\\Programacion Estructurada\\27_for\\27_for\\27_for.csproj",
+      "projectPath": "P:\\Programas UNAH\\2026-3\\Programacion Estructurada\\27_for\\27_for\\27_for.csproj",
       "packagesPath": "C:\\Users\\Gerardo\\.nuget\\packages\\",
-      "outputPath": "C:\\Programas UNAH\\2026-3\\Programacion Estructurada\\27_for\\27_for\\obj\\",
+      "outputPath": "P:\\Programas UNAH\\2026-3\\Programacion Estructurada\\27_for\\27_for\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Gerardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "net9.0": {
