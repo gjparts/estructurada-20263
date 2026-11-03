@@ -1,0 +1,15 @@
+P:\Programas UNAH\2026-3\Programacion Orientada a Objetos\30_for\30_for\bin\Debug\net9.0\30_for.exe
+P:\Programas UNAH\2026-3\Programacion Orientada a Objetos\30_for\30_for\bin\Debug\net9.0\30_for.deps.json
+P:\Programas UNAH\2026-3\Programacion Orientada a Objetos\30_for\30_for\bin\Debug\net9.0\30_for.runtimeconfig.json
+P:\Programas UNAH\2026-3\Programacion Orientada a Objetos\30_for\30_for\bin\Debug\net9.0\30_for.dll
+P:\Programas UNAH\2026-3\Programacion Orientada a Objetos\30_for\30_for\bin\Debug\net9.0\30_for.pdb
+P:\Programas UNAH\2026-3\Programacion Orientada a Objetos\30_for\30_for\obj\Debug\net9.0\30_for.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2026-3\Programacion Orientada a Objetos\30_for\30_for\obj\Debug\net9.0\30_for.AssemblyInfoInputs.cache
+P:\Programas UNAH\2026-3\Programacion Orientada a Objetos\30_for\30_for\obj\Debug\net9.0\30_for.AssemblyInfo.cs
+P:\Programas UNAH\2026-3\Programacion Orientada a Objetos\30_for\30_for\obj\Debug\net9.0\30_for.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2026-3\Programacion Orientada a Objetos\30_for\30_for\obj\Debug\net9.0\30_for.sourcelink.json
+P:\Programas UNAH\2026-3\Programacion Orientada a Objetos\30_for\30_for\obj\Debug\net9.0\30_for.dll
+P:\Programas UNAH\2026-3\Programacion Orientada a Objetos\30_for\30_for\obj\Debug\net9.0\refint\30_for.dll
+P:\Programas UNAH\2026-3\Programacion Orientada a Objetos\30_for\30_for\obj\Debug\net9.0\30_for.pdb
+P:\Programas UNAH\2026-3\Programacion Orientada a Objetos\30_for\30_for\obj\Debug\net9.0\30_for.genruntimeconfig.cache
+P:\Programas UNAH\2026-3\Programacion Orientada a Objetos\30_for\30_for\obj\Debug\net9.0\ref\30_for.dll
