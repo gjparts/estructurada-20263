@@ -1,0 +1,15 @@
+P:\Programas UNAH\2026-3\Programacion Estructurada\33_while_do_while\33_while_do_while\bin\Debug\net9.0\33_while_do_while.exe
+P:\Programas UNAH\2026-3\Programacion Estructurada\33_while_do_while\33_while_do_while\bin\Debug\net9.0\33_while_do_while.deps.json
+P:\Programas UNAH\2026-3\Programacion Estructurada\33_while_do_while\33_while_do_while\bin\Debug\net9.0\33_while_do_while.runtimeconfig.json
+P:\Programas UNAH\2026-3\Programacion Estructurada\33_while_do_while\33_while_do_while\bin\Debug\net9.0\33_while_do_while.dll
+P:\Programas UNAH\2026-3\Programacion Estructurada\33_while_do_while\33_while_do_while\bin\Debug\net9.0\33_while_do_while.pdb
+P:\Programas UNAH\2026-3\Programacion Estructurada\33_while_do_while\33_while_do_while\obj\Debug\net9.0\33_while_do_while.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2026-3\Programacion Estructurada\33_while_do_while\33_while_do_while\obj\Debug\net9.0\33_while_do_while.AssemblyInfoInputs.cache
+P:\Programas UNAH\2026-3\Programacion Estructurada\33_while_do_while\33_while_do_while\obj\Debug\net9.0\33_while_do_while.AssemblyInfo.cs
+P:\Programas UNAH\2026-3\Programacion Estructurada\33_while_do_while\33_while_do_while\obj\Debug\net9.0\33_while_do_while.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2026-3\Programacion Estructurada\33_while_do_while\33_while_do_while\obj\Debug\net9.0\33_while_do_while.sourcelink.json
+P:\Programas UNAH\2026-3\Programacion Estructurada\33_while_do_while\33_while_do_while\obj\Debug\net9.0\33_while_do_while.dll
+P:\Programas UNAH\2026-3\Programacion Estructurada\33_while_do_while\33_while_do_while\obj\Debug\net9.0\refint\33_while_do_while.dll
+P:\Programas UNAH\2026-3\Programacion Estructurada\33_while_do_while\33_while_do_while\obj\Debug\net9.0\33_while_do_while.pdb
+P:\Programas UNAH\2026-3\Programacion Estructurada\33_while_do_while\33_while_do_while\obj\Debug\net9.0\33_while_do_while.genruntimeconfig.cache
+P:\Programas UNAH\2026-3\Programacion Estructurada\33_while_do_while\33_while_do_while\obj\Debug\net9.0\ref\33_while_do_while.dll
