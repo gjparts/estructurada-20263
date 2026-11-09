@@ -25,8 +25,58 @@
             while(numero <= 10)
             {
                 Console.WriteLine(numero);
-                numero++;
+                numero++; //la variable de control se cambia en cada iteracion si desea
+                          //que en algun momento termine de repetir la estructura
+                          //Si la variable de control nunca cambia, pues la estructura se queda infinita
             }
+
+            //Ejemplo de do-while:
+            //Haga un programa que imprima los numeros del 1 al 10; pero usando do-while
+            int valor = 1;
+            do
+            {
+                Console.WriteLine(valor);
+                valor++;
+            } while (valor <= 10);
+            //IMPORTANTE: la estructura do-while SIEMPRE va a ejecutar la primera iteracion
+
+            /*Haga un programa que pregunte al usuario N cantidad de numeros positivos.
+             El programa terminará cuando se digite un numero negativo.
+            Hagalo usando while*/
+            int n = 0;
+            while (n >= 0)
+            {
+                try
+                {
+                    Console.Write("Digite un entero: ");
+                    n = int.Parse(Console.ReadLine());
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("Solo se acepta numeros");
+                }
+            }
+            Console.WriteLine("Programa terminado");
+            //Observe que en este programa la variable de control depende de lo que
+            //el usuario digite.
+
+            //Haga el programa anterior; pero utilizando una estructura de repeticion do-while
+            float x = 777;
+            do
+            {
+                try
+                {
+                    Console.Write("Digite un entero: ");
+                    x = float.Parse(Console.ReadLine());
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("Solo se acepta numeros");
+                }
+            } while (x >= 0);
+            /*Observe que usando do-while no importa el valor de inicio (777) ya que
+             este sera sobre-escrito por el usuario en la primera iteracion
+            la cual en do-while siempre sucede.*/
         }
     }
 }

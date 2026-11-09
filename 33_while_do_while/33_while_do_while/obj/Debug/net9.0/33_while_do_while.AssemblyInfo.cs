@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("33_while_do_while")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bdab479acfc557ea276b8d68bf76d60db5957be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be58835781aac3c7a1ffef4f6e3a6ad1a8e8d46b")]
 [assembly: System.Reflection.AssemblyProductAttribute("33_while_do_while")]
 [assembly: System.Reflection.AssemblyTitleAttribute("33_while_do_while")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
