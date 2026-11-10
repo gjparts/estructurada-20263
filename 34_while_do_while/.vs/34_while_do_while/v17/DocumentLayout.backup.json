@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\Programas UNAH\\2026-3\\Programacion Estructurada\\34_while_do_while\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C08ACC9E-1541-4119-9BAA-128424C8D68F}|34_while_do_while\\34_while_do_while.csproj|p:\\programas unah\\2026-3\\programacion estructurada\\34_while_do_while\\34_while_do_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08ACC9E-1541-4119-9BAA-128424C8D68F}|34_while_do_while\\34_while_do_while.csproj|solutionrelative:34_while_do_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2026-3\\Programacion Estructurada\\34_while_do_while\\34_while_do_while\\Program.cs",
+              "RelativeDocumentMoniker": "34_while_do_while\\Program.cs",
+              "ToolTip": "P:\\Programas UNAH\\2026-3\\Programacion Estructurada\\34_while_do_while\\34_while_do_while\\Program.cs",
+              "RelativeToolTip": "34_while_do_while\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAArwDQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T16:08:28.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

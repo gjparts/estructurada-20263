@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "34_while_do_while/1.0.0": {
+        "runtime": {
+          "34_while_do_while.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "34_while_do_while/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
