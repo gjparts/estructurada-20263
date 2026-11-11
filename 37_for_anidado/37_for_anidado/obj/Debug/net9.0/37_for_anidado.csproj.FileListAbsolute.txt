@@ -1,0 +1,15 @@
+P:\Programas UNAH\2026-3\Programacion Estructurada\37_for_anidado\37_for_anidado\bin\Debug\net9.0\37_for_anidado.exe
+P:\Programas UNAH\2026-3\Programacion Estructurada\37_for_anidado\37_for_anidado\bin\Debug\net9.0\37_for_anidado.deps.json
+P:\Programas UNAH\2026-3\Programacion Estructurada\37_for_anidado\37_for_anidado\bin\Debug\net9.0\37_for_anidado.runtimeconfig.json
+P:\Programas UNAH\2026-3\Programacion Estructurada\37_for_anidado\37_for_anidado\bin\Debug\net9.0\37_for_anidado.dll
+P:\Programas UNAH\2026-3\Programacion Estructurada\37_for_anidado\37_for_anidado\bin\Debug\net9.0\37_for_anidado.pdb
+P:\Programas UNAH\2026-3\Programacion Estructurada\37_for_anidado\37_for_anidado\obj\Debug\net9.0\37_for_anidado.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2026-3\Programacion Estructurada\37_for_anidado\37_for_anidado\obj\Debug\net9.0\37_for_anidado.AssemblyInfoInputs.cache
+P:\Programas UNAH\2026-3\Programacion Estructurada\37_for_anidado\37_for_anidado\obj\Debug\net9.0\37_for_anidado.AssemblyInfo.cs
+P:\Programas UNAH\2026-3\Programacion Estructurada\37_for_anidado\37_for_anidado\obj\Debug\net9.0\37_for_anidado.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2026-3\Programacion Estructurada\37_for_anidado\37_for_anidado\obj\Debug\net9.0\37_for_anidado.sourcelink.json
+P:\Programas UNAH\2026-3\Programacion Estructurada\37_for_anidado\37_for_anidado\obj\Debug\net9.0\37_for_anidado.dll
+P:\Programas UNAH\2026-3\Programacion Estructurada\37_for_anidado\37_for_anidado\obj\Debug\net9.0\refint\37_for_anidado.dll
+P:\Programas UNAH\2026-3\Programacion Estructurada\37_for_anidado\37_for_anidado\obj\Debug\net9.0\37_for_anidado.pdb
+P:\Programas UNAH\2026-3\Programacion Estructurada\37_for_anidado\37_for_anidado\obj\Debug\net9.0\37_for_anidado.genruntimeconfig.cache
+P:\Programas UNAH\2026-3\Programacion Estructurada\37_for_anidado\37_for_anidado\obj\Debug\net9.0\ref\37_for_anidado.dll
