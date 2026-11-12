@@ -1,0 +1,15 @@
+P:\Programas UNAH\2026-3\Programacion Estructurada\38_control_flujo\38_control_flujo\bin\Debug\net9.0\38_control_flujo.exe
+P:\Programas UNAH\2026-3\Programacion Estructurada\38_control_flujo\38_control_flujo\bin\Debug\net9.0\38_control_flujo.deps.json
+P:\Programas UNAH\2026-3\Programacion Estructurada\38_control_flujo\38_control_flujo\bin\Debug\net9.0\38_control_flujo.runtimeconfig.json
+P:\Programas UNAH\2026-3\Programacion Estructurada\38_control_flujo\38_control_flujo\bin\Debug\net9.0\38_control_flujo.dll
+P:\Programas UNAH\2026-3\Programacion Estructurada\38_control_flujo\38_control_flujo\bin\Debug\net9.0\38_control_flujo.pdb
+P:\Programas UNAH\2026-3\Programacion Estructurada\38_control_flujo\38_control_flujo\obj\Debug\net9.0\38_control_flujo.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2026-3\Programacion Estructurada\38_control_flujo\38_control_flujo\obj\Debug\net9.0\38_control_flujo.AssemblyInfoInputs.cache
+P:\Programas UNAH\2026-3\Programacion Estructurada\38_control_flujo\38_control_flujo\obj\Debug\net9.0\38_control_flujo.AssemblyInfo.cs
+P:\Programas UNAH\2026-3\Programacion Estructurada\38_control_flujo\38_control_flujo\obj\Debug\net9.0\38_control_flujo.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2026-3\Programacion Estructurada\38_control_flujo\38_control_flujo\obj\Debug\net9.0\38_control_flujo.sourcelink.json
+P:\Programas UNAH\2026-3\Programacion Estructurada\38_control_flujo\38_control_flujo\obj\Debug\net9.0\38_control_flujo.dll
+P:\Programas UNAH\2026-3\Programacion Estructurada\38_control_flujo\38_control_flujo\obj\Debug\net9.0\refint\38_control_flujo.dll
+P:\Programas UNAH\2026-3\Programacion Estructurada\38_control_flujo\38_control_flujo\obj\Debug\net9.0\38_control_flujo.pdb
+P:\Programas UNAH\2026-3\Programacion Estructurada\38_control_flujo\38_control_flujo\obj\Debug\net9.0\38_control_flujo.genruntimeconfig.cache
+P:\Programas UNAH\2026-3\Programacion Estructurada\38_control_flujo\38_control_flujo\obj\Debug\net9.0\ref\38_control_flujo.dll
