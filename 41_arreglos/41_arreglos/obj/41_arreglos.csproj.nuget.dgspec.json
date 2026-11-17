@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\41_arreglos\\41_arreglos\\41_arreglos.csproj": {}
+    "C:\\Programas UNAH\\2026-3\\Programacion Estructurada\\41_arreglos\\41_arreglos\\41_arreglos.csproj": {}
   },
   "projects": {
-    "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\41_arreglos\\41_arreglos\\41_arreglos.csproj": {
+    "C:\\Programas UNAH\\2026-3\\Programacion Estructurada\\41_arreglos\\41_arreglos\\41_arreglos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\41_arreglos\\41_arreglos\\41_arreglos.csproj",
+        "projectUniqueName": "C:\\Programas UNAH\\2026-3\\Programacion Estructurada\\41_arreglos\\41_arreglos\\41_arreglos.csproj",
         "projectName": "41_arreglos",
-        "projectPath": "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\41_arreglos\\41_arreglos\\41_arreglos.csproj",
+        "projectPath": "C:\\Programas UNAH\\2026-3\\Programacion Estructurada\\41_arreglos\\41_arreglos\\41_arreglos.csproj",
         "packagesPath": "C:\\Users\\Gerardo\\.nuget\\packages\\",
-        "outputPath": "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\41_arreglos\\41_arreglos\\obj\\",
+        "outputPath": "C:\\Programas UNAH\\2026-3\\Programacion Estructurada\\41_arreglos\\41_arreglos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gerardo\\AppData\\Roaming\\NuGet\\NuGet.Config",

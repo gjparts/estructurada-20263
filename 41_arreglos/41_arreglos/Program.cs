@@ -1,4 +1,6 @@
-﻿namespace _41_arreglos
+﻿using System.Numerics;
+
+namespace _41_arreglos
 {
     internal class Program
     {
@@ -79,8 +81,58 @@
             Console.WriteLine("-------------------------------------");
             for(int i = 0; i < arreglo1.Length; i++)
             {
-                Console.WriteLine(arreglo1[i]);
+                Console.WriteLine($"Posicion: {i}, Valor: {arreglo1[i]}");
             }
+
+            Console.WriteLine($"Primer item de arreglo1 es: {arreglo1[0]}");
+            Console.WriteLine($"Ultimo item de arreglo1 es: {arreglo1[arreglo1.Length-1]}");
+
+            /*Haga un arreglo unidimensional de numeros double de 10 elementos.
+            Llene el arreglo con numeros al azar entre 1 y 100, al final imprima
+            el contenido del arreglo.*/
+            double[] arreglo2 = new double[10];
+            Random r = new Random();
+            for(int i = 0; i < arreglo2.Length; i++)
+            {
+                arreglo2[i] = r.Next(1, 101);
+                Console.WriteLine(arreglo2[i]);
+            }
+
+            /*Haga un arreglo unidimensional de numeros double de 5 elementos.
+            Llene el arreglo con numeros al azar entre 3 y 15 elevado al cuadrado,
+            al final imprima el contenido del arreglo.*/
+            Console.WriteLine("-------------------------------------");
+            double[] arreglo3 = new double[5];
+            for(int i = 0; i < arreglo3.Length; i++)
+            {
+                arreglo3[i] = Math.Pow(r.Next(3, 16),2);
+                Console.WriteLine(arreglo3[i]);
+            }
+
+            /*En C# existen otras formas de leer arreglos, una
+             de las mas populares es el uso de forEach.
+            Importante: si usa forEach para recorrer un arreglo, debe
+            saber que esta estructura es de solo lectura, no permite
+            escribir en el arreglo ya que forEach no utiliza
+            una variable de control para saber el indice de cada item*/
+            Console.WriteLine("*******************************");
+            foreach(double valor in arreglo3)
+            {
+                Console.WriteLine(valor);
+            }
+            //en Resumen: forEach no les da acceso a la posicion de cada item
+
+            //en C# es posible saber el numero mas grande y mas pequeño dentro
+            //de un arreglo de forma facil:
+            Console.WriteLine($"El valor mayor en arreglo3 es: {arreglo3.Max()}");
+            Console.WriteLine($"El valor menor en arreglo3 es: {arreglo3.Min()}");
+
+            /*Haga un arreglo unidimensional de numeros double de 15 elementos.
+            Llene dicho arreglo con numeros al azar entre 5 y 25; pero elevado al cubo.
+            Para aquellos elementos cuyo indice es multiplo de 5 el valor
+            a colocar va a ser el valor de PI.
+            Imprima el arreglo y tambien cual es el valor mayor y menor dentro
+            de dicho arreglo.*/
         }
     }
 }
