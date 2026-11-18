@@ -133,6 +133,56 @@ namespace _41_arreglos
             a colocar va a ser el valor de PI.
             Imprima el arreglo y tambien cual es el valor mayor y menor dentro
             de dicho arreglo.*/
+            double[] arreglo4 = new double[15];
+            for(int i = 0; i < arreglo4.Length; i++)
+            {
+                if (i % 5 == 0)
+                    arreglo4[i] = Math.PI;
+                else
+                    arreglo4[i] = Math.Pow(r.Next(5, 26), 3);
+
+                Console.WriteLine(arreglo4[i]);
+            }
+            Console.WriteLine($"El valor mayor es: {arreglo4.Max()}");
+            Console.WriteLine($"El valor menor es: {arreglo4.Min()}");
+
+            //3) Declarar e inicializar el arreglo prellenado con datos
+            int[] arreglo5 = { 7, 22, -1, 800, 0, -4, 777, 123 };
+            Console.WriteLine("************************************");
+            for(int i = 0; i < arreglo5.Length; i++)
+            {
+                Console.WriteLine(arreglo5[i]);
+            }
+
+            //arreglo unidimensional prellenado de numeros float
+            float[] arreglo6 = { 3.2f, 5.25f, 9, -2.29f, -0.00000012f, 100 };
+            Console.WriteLine("************************************");
+            foreach(float valor in arreglo6)
+            {
+                Console.WriteLine(valor);
+            }
+
+            //Aplicar orden ascendente a un arreglo
+            //ejercicio: ordenar de menor a mayor el arreglo4, luego imprimalo.
+            Array.Sort(arreglo4);
+            //Importante: este metodo afecta al arreglo de forma permanente
+            Console.WriteLine("arreglo4 de menor a mayor: ****************");
+            for (int i = 0; i < arreglo4.Length; i++)
+            {
+                Console.WriteLine(arreglo4[i]);
+            }
+
+            //Aplicar orden descedente a un arreglo
+            //ejercicio: ordenar de mayor a menor el arreglo6, luego lo imprime
+            Array.Sort(arreglo6);
+            Array.Reverse(arreglo6);
+            //Importante: para poder hacer Reverse() es necesiario primero
+            //haber aplicado Sort()
+            Console.WriteLine("arreglo6 de mayor a menor: ****************");
+            for (int i = 0; i < arreglo6.Length; i++)
+            {
+                Console.WriteLine(arreglo6[i]);
+            }
         }
     }
 }
