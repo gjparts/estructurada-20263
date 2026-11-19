@@ -1,0 +1,15 @@
+C:\Programas UNAH\2026-3\Programacion Estructurada\42_arreglos\42_arreglos\bin\Debug\net9.0\42_arreglos.exe
+C:\Programas UNAH\2026-3\Programacion Estructurada\42_arreglos\42_arreglos\bin\Debug\net9.0\42_arreglos.deps.json
+C:\Programas UNAH\2026-3\Programacion Estructurada\42_arreglos\42_arreglos\bin\Debug\net9.0\42_arreglos.runtimeconfig.json
+C:\Programas UNAH\2026-3\Programacion Estructurada\42_arreglos\42_arreglos\bin\Debug\net9.0\42_arreglos.dll
+C:\Programas UNAH\2026-3\Programacion Estructurada\42_arreglos\42_arreglos\bin\Debug\net9.0\42_arreglos.pdb
+C:\Programas UNAH\2026-3\Programacion Estructurada\42_arreglos\42_arreglos\obj\Debug\net9.0\42_arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-3\Programacion Estructurada\42_arreglos\42_arreglos\obj\Debug\net9.0\42_arreglos.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-3\Programacion Estructurada\42_arreglos\42_arreglos\obj\Debug\net9.0\42_arreglos.AssemblyInfo.cs
+C:\Programas UNAH\2026-3\Programacion Estructurada\42_arreglos\42_arreglos\obj\Debug\net9.0\42_arreglos.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-3\Programacion Estructurada\42_arreglos\42_arreglos\obj\Debug\net9.0\42_arreglos.sourcelink.json
+C:\Programas UNAH\2026-3\Programacion Estructurada\42_arreglos\42_arreglos\obj\Debug\net9.0\42_arreglos.dll
+C:\Programas UNAH\2026-3\Programacion Estructurada\42_arreglos\42_arreglos\obj\Debug\net9.0\refint\42_arreglos.dll
+C:\Programas UNAH\2026-3\Programacion Estructurada\42_arreglos\42_arreglos\obj\Debug\net9.0\42_arreglos.pdb
+C:\Programas UNAH\2026-3\Programacion Estructurada\42_arreglos\42_arreglos\obj\Debug\net9.0\42_arreglos.genruntimeconfig.cache
+C:\Programas UNAH\2026-3\Programacion Estructurada\42_arreglos\42_arreglos\obj\Debug\net9.0\ref\42_arreglos.dll
