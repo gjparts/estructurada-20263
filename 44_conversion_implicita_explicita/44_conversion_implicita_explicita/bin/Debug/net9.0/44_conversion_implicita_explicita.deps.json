@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "44_conversion_implicita_explicita/1.0.0": {
+        "runtime": {
+          "44_conversion_implicita_explicita.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "44_conversion_implicita_explicita/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
