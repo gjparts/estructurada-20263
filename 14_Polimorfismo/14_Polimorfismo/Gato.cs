@@ -46,5 +46,15 @@ namespace _14_Polimorfismo
             Console.WriteLine($"Apodo: {this.Apodo}");
             Console.WriteLine($"Tiene pelaje: {(this.TienePelaje ? "Si" : "No")}");
         }
+
+        /*tambien existe la posibilidad de hacer override al metodo ToString()
+         el cual viene heredado de Object
+        -> en .Net toda clase hereda de un ancestro común llamado Object, por lo tanto
+        cualquier objeto tiene disponible el metodo ToString() asi como otros metodos
+        como Equals, GetType, GetHashCode y otros.*/
+        public override string ToString()
+        {
+            return $"Este es un Gato que se llama {this.Apodo}";
+        }
     }
 }
